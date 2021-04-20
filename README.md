@@ -1,4 +1,4 @@
-# Audiobook_Workshop
+# Audiobook Workshop
 Web application written in Python (with Flask) for converting a .pdf into an .mp3 audiofile. Application stores results in a playable library.
 
 ![app_screenshot](https://github.com/Holly-Transport/Audiobook_Workshop/blob/master/screenshots/audio_app1.png)
